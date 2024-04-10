@@ -8,13 +8,7 @@
 Esse projeto faz parte do curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 ```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
+
 ├── index.html
 └── README.md
 ```
